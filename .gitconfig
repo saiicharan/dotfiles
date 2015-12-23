@@ -3,3 +3,7 @@
 	name = Sai
 [alias]
 	st = status
+	sersu = add
+	tallu = push
+	eli = pull
+	
